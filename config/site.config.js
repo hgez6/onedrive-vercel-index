@@ -35,7 +35,8 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Push with ❤ & Edited by: 本大鸟就是玩~. ',
+    '<center>Construct ❤ by <a href="https://github.com/hgez6/" target="_blank">Hgez6</a>.<br><center><iframe frameborder=0  height=20px marginwidth=0 scrolling=no src="https://api.icodeq.com/TuoStudy-Counter/yiyan.html"></iframe></center><center><iframe frameborder=0  height=25px marginwidth=0 scrolling=no src="https://api.icodeq.com/TuoStudy-Counter/"></iframe></center>Powered by: <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" alt="vercel" /> </a> <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/onedrive--vercel--index-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="github" /> </a> <a target="_blank" href="https://nextjs.org/"><img style="display: inline-block" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="nextjs" /></a></center>',
+     
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
