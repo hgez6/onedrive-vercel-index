@@ -43,7 +43,7 @@ module.exports = {
   protectedRoutes: ['/图片/private', '/人工智能/PrivateReport','/网课'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.  'mailto:1799785832@qq.com'
-  email: "",
+  //email: "",
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -58,7 +58,7 @@ module.exports = {
       link: 'https://hgez6.vercel.app/',
     },
     {
-      name: 'dragon',
+      name: 'alicorn',
       link: 'https://e5-oneindex.vercel.app/',
     },
   ],
