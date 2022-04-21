@@ -42,8 +42,8 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/图片/private', '/人工智能/PrivateReport','/网课'],
 
-  // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:1799785832@qq.com',
+  // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.  'mailto:1799785832@qq.com'
+  email: "",
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -56,6 +56,10 @@ module.exports = {
     {
       name: 'themeisle',
       link: 'https://hgez6.vercel.app/',
+    },
+    {
+      name: 'dragon',
+      link: 'https://e5-oneindex.vercel.app/',
     },
   ],
 
