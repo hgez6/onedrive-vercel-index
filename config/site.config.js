@@ -58,7 +58,7 @@ module.exports = {
       link: 'https://hgez6.vercel.app/',
     },
     {
-      name: 'alicorn',
+      name: 'atom',
       link: 'https://e5-oneindex.vercel.app/',
     },
   ],
