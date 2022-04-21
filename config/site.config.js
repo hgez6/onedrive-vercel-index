@@ -60,7 +60,7 @@ module.exports = {
     {
       name: 'link',
       link: 'https://e5-oneindex.vercel.app/',
-    },
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
