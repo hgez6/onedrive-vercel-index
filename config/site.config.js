@@ -58,7 +58,7 @@ module.exports = {
       link: 'https://hgez6.vercel.app/',
     },
     {
-      name: 'link',
+      name: 'pagelines',
       link: 'https://e5-oneindex.vercel.app/',
     }
   ],
