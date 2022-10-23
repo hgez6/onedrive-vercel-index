@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<center>Edited with ❤ by <a href="https://github.com/hgez6/" target="_blank">本大鸟就是玩~</a> and connected with <a href="https://e5-oneindex.vercel.app/" target="_blank">E5无限云</a>.<iframe frameborder=0  height=28px marginwidth=0 scrolling=no src="https://api.icodeq.com/TuoStudy-Counter/yiyan.html"></iframe><iframe frameborder=0  height=29px marginwidth=0 scrolling=no src="/count.html"></iframe>',
+    '<center>Edited with ❤ by <a href="https://github.com/hgez6/" target="_blank">本大鸟就是玩~</a> and connected with <a href="https://e5.hgez6.top/" target="_blank">E5无限云</a>.<iframe frameborder=0  height=28px marginwidth=0 scrolling=no src="https://api.icodeq.com/TuoStudy-Counter/yiyan.html"></iframe><iframe frameborder=0  height=29px marginwidth=0 scrolling=no src="/count.html"></iframe>',
      
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
@@ -51,15 +51,15 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/hgez6/',
+      link: 'https://status.hgez6.top/',
     },
     {
       name: 'themeisle',
-      link: 'https://hgez6.vercel.app/',
+      link: 'https://hgez6.top/',
     },
     {
       name: 'pagelines',
-      link: 'https://e5-oneindex.vercel.app/',
+      link: 'https://e5.hgez6.top/',
     }
   ],
 
