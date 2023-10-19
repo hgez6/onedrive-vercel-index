@@ -39,8 +39,9 @@ module.exports = {
      
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
-  // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/图片/private', '/人工智能/PrivateReport','/网课','/毕业设计云存档/'],
+  // the directories in which you have .password set. Check the documentation for details. //文件夹下有子文件夹需要再加斜杠/
+  protectedRoutes: ['/图片/private', '/人工智能/PrivateReport','/网课','/毕业设计云存档/','/数字图像处理笔记/'],
+  
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.  'mailto:1799785832@qq.com'
   //email: "",
